@@ -1,0 +1,335 @@
+[
+  {
+    "asset_id": "ASSET-000",
+    "type": "PIPE",
+    "cluster_id": 0,
+    "n_points": 837,
+    "centroid": [
+      1.1005,
+      1.0651,
+      0.8716
+    ],
+    "bbox_m": [
+      0.1478,
+      0.2612,
+      0.8687
+    ],
+    "axis_direction": [
+      -0.0025,
+      0.1273,
+      0.9919
+    ],
+    "endpoint_1_m": [
+      1.1013,
+      1.0251,
+      0.5604
+    ],
+    "endpoint_2_m": [
+      1.0991,
+      1.1352,
+      1.4184
+    ],
+    "length_m": 0.865,
+    "radius_m": 0.0578,
+    "diameter_mm": 115.5,
+    "confidence": 0.98
+  },
+  {
+    "asset_id": "ASSET-001",
+    "type": "PIPE",
+    "cluster_id": 1,
+    "n_points": 810,
+    "centroid": [
+      1.0632,
+      0.4987,
+      0.5007
+    ],
+    "bbox_m": [
+      0.2606,
+      0.8866,
+      0.1241
+    ],
+    "axis_direction": [
+      -0.1567,
+      -0.9876,
+      -0.0043
+    ],
+    "endpoint_1_m": [
+      1.1431,
+      1.0025,
+      0.5029
+    ],
+    "endpoint_2_m": [
+      1.0015,
+      0.1096,
+      0.499
+    ],
+    "length_m": 0.904,
+    "radius_m": 0.0537,
+    "diameter_mm": 107.4,
+    "confidence": 0.99
+  },
+  {
+    "asset_id": "ASSET-002",
+    "type": "PIPE",
+    "cluster_id": 2,
+    "n_points": 576,
+    "centroid": [
+      0.575,
+      -0.0051,
+      0.5126
+    ],
+    "bbox_m": [
+      0.6418,
+      0.2511,
+      0.2365
+    ],
+    "axis_direction": [
+      -0.9943,
+      0.0925,
+      -0.0525
+    ],
+    "endpoint_1_m": [
+      0.9708,
+      -0.0419,
+      0.5335
+    ],
+    "endpoint_2_m": [
+      0.322,
+      0.0184,
+      0.4993
+    ],
+    "length_m": 0.6525,
+    "radius_m": 0.0699,
+    "diameter_mm": 139.7,
+    "confidence": 0.96
+  },
+  {
+    "asset_id": "ASSET-003",
+    "type": "PIPE",
+    "cluster_id": 3,
+    "n_points": 118,
+    "centroid": [
+      -0.4146,
+      -0.0174,
+      0.5221
+    ],
+    "bbox_m": [
+      0.3204,
+      0.1364,
+      0.1019
+    ],
+    "axis_direction": [
+      -0.9997,
+      -0.0197,
+      -0.0112
+    ],
+    "endpoint_1_m": [
+      -0.2613,
+      -0.0144,
+      0.5238
+    ],
+    "endpoint_2_m": [
+      -0.5804,
+      -0.0207,
+      0.5202
+    ],
+    "length_m": 0.3192,
+    "radius_m": 0.0377,
+    "diameter_mm": 75.4,
+    "confidence": 0.85
+  },
+  {
+    "asset_id": "ASSET-004",
+    "type": "PIPE",
+    "cluster_id": 4,
+    "n_points": 202,
+    "centroid": [
+      -1.1158,
+      -0.0141,
+      0.5236
+    ],
+    "bbox_m": [
+      0.5133,
+      0.1159,
+      0.1022
+    ],
+    "axis_direction": [
+      -0.9999,
+      -0.0023,
+      -0.0161
+    ],
+    "endpoint_1_m": [
+      -0.8342,
+      -0.0134,
+      0.5281
+    ],
+    "endpoint_2_m": [
+      -1.3488,
+      -0.0146,
+      0.5199
+    ],
+    "length_m": 0.5147,
+    "radius_m": 0.0395,
+    "diameter_mm": 78.9,
+    "confidence": 0.9
+  },
+  {
+    "asset_id": "ASSET-005",
+    "type": "UNKNOWN",
+    "cluster_id": 5,
+    "n_points": 814,
+    "centroid": [
+      -0.0563,
+      0.7884,
+      1.218
+    ],
+    "bbox_m": [
+      0.91,
+      0.2919,
+      0.3077
+    ],
+    "confidence": 0.5
+  },
+  {
+    "asset_id": "ASSET-006",
+    "type": "PIPE",
+    "cluster_id": 6,
+    "n_points": 315,
+    "centroid": [
+      -1.0466,
+      0.7861,
+      1.2289
+    ],
+    "bbox_m": [
+      0.8459,
+      0.1456,
+      0.1383
+    ],
+    "axis_direction": [
+      -0.9988,
+      0.0405,
+      0.0264
+    ],
+    "endpoint_1_m": [
+      -0.6769,
+      0.7711,
+      1.2191
+    ],
+    "endpoint_2_m": [
+      -1.5207,
+      0.8054,
+      1.2414
+    ],
+    "length_m": 0.8448,
+    "radius_m": 0.0507,
+    "diameter_mm": 101.4,
+    "confidence": 0.95
+  },
+  {
+    "asset_id": "ASSET-007",
+    "type": "PIPE",
+    "cluster_id": 7,
+    "n_points": 98,
+    "centroid": [
+      0.1043,
+      0.1043,
+      0.4778
+    ],
+    "bbox_m": [
+      0.5039,
+      0.0812,
+      0.0734
+    ],
+    "axis_direction": [
+      -0.9999,
+      -0.01,
+      -0.0118
+    ],
+    "endpoint_1_m": [
+      0.3346,
+      0.1066,
+      0.4805
+    ],
+    "endpoint_2_m": [
+      -0.1681,
+      0.1016,
+      0.4746
+    ],
+    "length_m": 0.5028,
+    "radius_m": 0.0271,
+    "diameter_mm": 54.2,
+    "confidence": 0.87
+  },
+  {
+    "asset_id": "ASSET-008",
+    "type": "VALVE",
+    "cluster_id": 8,
+    "n_points": 93,
+    "centroid": [
+      1.0955,
+      1.0904,
+      1.4957
+    ],
+    "bbox_m": [
+      0.136,
+      0.1338,
+      0.1461
+    ],
+    "body_length_m": 0.1461,
+    "body_radius_m": 0.0473,
+    "valve_type": "Gate/Globe (estimated)",
+    "confidence": 0.73
+  },
+  {
+    "asset_id": "ASSET-009",
+    "type": "UNKNOWN",
+    "cluster_id": 9,
+    "n_points": 93,
+    "centroid": [
+      -0.7115,
+      -0.015,
+      0.5223
+    ],
+    "bbox_m": [
+      0.28,
+      0.1041,
+      0.0988
+    ],
+    "confidence": 0.38
+  },
+  {
+    "asset_id": "ASSET-010",
+    "type": "UNKNOWN",
+    "cluster_id": 10,
+    "n_points": 27,
+    "centroid": [
+      -0.2445,
+      0.1143,
+      0.4872
+    ],
+    "bbox_m": [
+      0.1228,
+      0.0561,
+      0.0686
+    ],
+    "confidence": 0.36
+  },
+  {
+    "asset_id": "ASSET-011",
+    "type": "UNKNOWN",
+    "cluster_id": 11,
+    "n_points": 27,
+    "centroid": [
+      -1.4411,
+      0.7496,
+      1.168
+    ],
+    "bbox_m": [
+      0.1724,
+      0.042,
+      0.0868
+    ],
+    "confidence": 0.36
+  }
+]

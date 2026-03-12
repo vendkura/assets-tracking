@@ -1,0 +1,218 @@
+[
+  {
+    "cluster_id": 0,
+    "label": "pipe",
+    "n_points": 837,
+    "elongation": 16.169,
+    "linearity": 0.921,
+    "bbox_xyz": [
+      0.1478,
+      0.2612,
+      0.8687
+    ],
+    "radius_est_m": 0.0578,
+    "centroid": [
+      1.1005,
+      1.0651,
+      0.8716
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "label": "pipe",
+    "n_points": 810,
+    "elongation": 29.744,
+    "linearity": 0.951,
+    "bbox_xyz": [
+      0.2606,
+      0.8866,
+      0.1241
+    ],
+    "radius_est_m": 0.0537,
+    "centroid": [
+      1.0632,
+      0.4987,
+      0.5007
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "label": "pipe",
+    "n_points": 576,
+    "elongation": 7.15,
+    "linearity": 0.806,
+    "bbox_xyz": [
+      0.6418,
+      0.2511,
+      0.2365
+    ],
+    "radius_est_m": 0.0699,
+    "centroid": [
+      0.575,
+      -0.0051,
+      0.5126
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "label": "pipe",
+    "n_points": 118,
+    "elongation": 5.796,
+    "linearity": 0.824,
+    "bbox_xyz": [
+      0.3204,
+      0.1364,
+      0.1019
+    ],
+    "radius_est_m": 0.0377,
+    "centroid": [
+      -0.4146,
+      -0.0174,
+      0.5221
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "label": "pipe",
+    "n_points": 202,
+    "elongation": 15.209,
+    "linearity": 0.922,
+    "bbox_xyz": [
+      0.5133,
+      0.1159,
+      0.1022
+    ],
+    "radius_est_m": 0.0395,
+    "centroid": [
+      -1.1158,
+      -0.0141,
+      0.5236
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "label": "unknown",
+    "n_points": 814,
+    "elongation": 2.957,
+    "linearity": 0.945,
+    "bbox_xyz": [
+      0.91,
+      0.2919,
+      0.3077
+    ],
+    "radius_est_m": 0.1459,
+    "centroid": [
+      -0.0563,
+      0.7884,
+      1.218
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "label": "pipe",
+    "n_points": 315,
+    "elongation": 5.809,
+    "linearity": 0.951,
+    "bbox_xyz": [
+      0.8459,
+      0.1456,
+      0.1383
+    ],
+    "radius_est_m": 0.0691,
+    "centroid": [
+      -1.0466,
+      0.7861,
+      1.2289
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "label": "pipe",
+    "n_points": 98,
+    "elongation": 6.207,
+    "linearity": 0.958,
+    "bbox_xyz": [
+      0.5039,
+      0.0812,
+      0.0734
+    ],
+    "radius_est_m": 0.0367,
+    "centroid": [
+      0.1043,
+      0.1043,
+      0.4778
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "label": "valve",
+    "n_points": 93,
+    "elongation": 1.074,
+    "linearity": 0.362,
+    "bbox_xyz": [
+      0.136,
+      0.1338,
+      0.1461
+    ],
+    "radius_est_m": 0.0669,
+    "centroid": [
+      1.0955,
+      1.0904,
+      1.4957
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "label": "unknown",
+    "n_points": 93,
+    "elongation": 2.691,
+    "linearity": 0.729,
+    "bbox_xyz": [
+      0.28,
+      0.1041,
+      0.0988
+    ],
+    "radius_est_m": 0.0494,
+    "centroid": [
+      -0.7115,
+      -0.015,
+      0.5223
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "label": "unknown",
+    "n_points": 27,
+    "elongation": 1.79,
+    "linearity": 0.341,
+    "bbox_xyz": [
+      0.1228,
+      0.0561,
+      0.0686
+    ],
+    "radius_est_m": 0.028,
+    "centroid": [
+      -0.2445,
+      0.1143,
+      0.4872
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "label": "unknown",
+    "n_points": 27,
+    "elongation": 1.985,
+    "linearity": 0.764,
+    "bbox_xyz": [
+      0.1724,
+      0.042,
+      0.0868
+    ],
+    "radius_est_m": 0.021,
+    "centroid": [
+      -1.4411,
+      0.7496,
+      1.168
+    ]
+  }
+]

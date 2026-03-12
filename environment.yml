@@ -1,0 +1,9 @@
+name: assets-tracking
+channels:
+  - conda-forge
+  - open3d-admin
+  - defaults
+dependencies:
+  - python=3.10  # Changed from 3.11 to 3.10 for stability
+  - numpy
+  - open3d
