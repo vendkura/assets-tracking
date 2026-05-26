@@ -1,7 +1,7 @@
 # Industrial 3D Asset Detection Pipeline
-### LiDAR Point Cloud Processing Demo — Dr. Hassan Collaboration
+### LiDAR Point Cloud Processing Demo
 
-A Python pipeline demonstrating the core steps of automated industrial asset detection from 3D point cloud data, directly aligned with the project scope discussed with Prof. Esteve Hassan (Acadia University) and Antea.
+A Python pipeline demonstrating the core steps of automated industrial asset detection from 3D point cloud data.
 
 ---
 
