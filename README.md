@@ -1,5 +1,4 @@
-# Industrial 3D Asset Detection Pipeline
-### LiDAR Point Cloud Processing Demo
+# LiDAR-Based 3D Asset Detection Pipeline
 
 A Python pipeline demonstrating the core steps of automated industrial asset detection from 3D point cloud data.
 
