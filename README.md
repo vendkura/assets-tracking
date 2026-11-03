@@ -12,9 +12,6 @@ This pipeline simulates what a real system would do with LiDAR scans of an indus
 2. **Preprocess** — clean noisy, cluttered scan data
 3. **Segment** — separate individual components (pipes, valves, elbows)
 4. **Extract** — output structured asset data (dimensions, positions, type)
-
-This structured output feeds directly into asset management platforms like **Antea** to build a **digital twin**.
-
 ---
 
 ## Project Structure
